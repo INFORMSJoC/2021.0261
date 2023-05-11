@@ -35,7 +35,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 ## Description
 
 This repository contains following folders: data, results, src.
-1. data: includes data needed for the PCRM (portfolioi credit risk model) code.
+1. data: includes data needed for the PCRM (portfolio credit risk model) code.
 2. results: contains figure and table results for both PCRM and i.i.d. sum model.
 3. src: includes two folders. The folder "PCRM" contains the codes for portfolio credit risk model in the paper, which are written in python. The other folder "IID" contains codes for i.i.d. sum model, which are written in matlab.
 
