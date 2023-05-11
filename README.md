@@ -6,9 +6,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 The code and data in this repository are a snapshot of the code and data
 that were used in the research reported on in the paper 
 "Monte Carlo Methods for Economic Capital" (https://doi.org/10.1287/ijoc.2021.0261). 
-The snapshot is based on 
-[this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
-in the development repository. 
+
 
 ## Cite
 
