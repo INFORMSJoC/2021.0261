@@ -14,6 +14,7 @@ in the development repository.
 
 To cite the contents of this respository, please cite both the paper and this repo, using their respective DOIs.
 https://doi.org/10.1287/ijoc.2021.0261
+
 https://doi.org/10.1287/ijoc.2021.0261.cd
 
 Below is the BibTex for citing this snapshot of the respoitory.
